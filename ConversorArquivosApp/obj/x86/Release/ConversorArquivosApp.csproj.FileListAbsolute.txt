@@ -1,0 +1,10 @@
+C:\Programação\Desktop\VsDesenv\App\ConversorArquivosSolution\ConversorArquivosApp\bin\Release\ConversorArquivosApp.exe.config
+C:\Programação\Desktop\VsDesenv\App\ConversorArquivosSolution\ConversorArquivosApp\bin\Release\ConversorArquivosApp.exe
+C:\Programação\Desktop\VsDesenv\App\ConversorArquivosSolution\ConversorArquivosApp\bin\Release\ConversorArquivosApp.pdb
+C:\Programação\Desktop\VsDesenv\App\ConversorArquivosSolution\ConversorArquivosApp\obj\x86\Release\ConversorArquivosApp.csprojResolveAssemblyReference.cache
+C:\Programação\Desktop\VsDesenv\App\ConversorArquivosSolution\ConversorArquivosApp\obj\x86\Release\Olvebra.ConversorArquivosApp.forms.FormProcedimentoLogViewer.resources
+C:\Programação\Desktop\VsDesenv\App\ConversorArquivosSolution\ConversorArquivosApp\obj\x86\Release\Olvebra.ConversorArquivosApp.forms.FormPesquisar.resources
+C:\Programação\Desktop\VsDesenv\App\ConversorArquivosSolution\ConversorArquivosApp\obj\x86\Release\Olvebra.ConversorArquivosApp.Properties.Resources.resources
+C:\Programação\Desktop\VsDesenv\App\ConversorArquivosSolution\ConversorArquivosApp\obj\x86\Release\ConversorArquivosApp.csproj.GenerateResource.Cache
+C:\Programação\Desktop\VsDesenv\App\ConversorArquivosSolution\ConversorArquivosApp\obj\x86\Release\ConversorArquivosApp.exe
+C:\Programação\Desktop\VsDesenv\App\ConversorArquivosSolution\ConversorArquivosApp\obj\x86\Release\ConversorArquivosApp.pdb
